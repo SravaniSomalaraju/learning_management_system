@@ -1,0 +1,201 @@
+course_id,course_name,instructor_id
+1,Data Warehousing 1,98
+2,ETL Pipeline Design 2,95
+3,Azure Data Services 3,47
+4,Data Warehousing 4,46
+5,Database Performance Tuning 5,64
+6,Python for Data Analysis 6,20
+7,ETL Pipeline Design 7,69
+8,Cloud Computing Basics 8,50
+9,SQL Fundamentals 9,13
+10,AWS Data Engineering 10,67
+11,DevOps for Data Platforms 11,33
+12,Database Performance Tuning 12,87
+13,Azure Data Services 13,33
+14,Cloud Computing Basics 14,28
+15,Power BI & Visualization 15,96
+16,Advanced Data Engineering 16,75
+17,Data Warehousing 17,67
+18,Data Modeling 18,76
+19,Data Warehousing 19,76
+20,Machine Learning Essentials 20,76
+21,Azure Data Services 21,51
+22,Big Data Processing 22,7
+23,Spark & Distributed Systems 23,54
+24,Advanced Data Engineering 24,100
+25,DevOps for Data Platforms 25,54
+26,Database Performance Tuning 26,8
+27,Python for Data Analysis 27,57
+28,Data Modeling 28,74
+29,Power BI & Visualization 29,37
+30,Cloud Computing Basics 30,77
+31,Data Warehousing 31,98
+32,Power BI & Visualization 32,79
+33,Big Data Processing 33,85
+34,AWS Data Engineering 34,83
+35,Power BI & Visualization 35,18
+36,Python for Data Analysis 36,27
+37,Python for Data Analysis 37,9
+38,Big Data Processing 38,54
+39,Database Performance Tuning 39,71
+40,Data Warehousing 40,54
+41,Azure Data Services 41,44
+42,Power BI & Visualization 42,76
+43,AWS Data Engineering 43,3
+44,DevOps for Data Platforms 44,13
+45,Data Warehousing 45,38
+46,Data Warehousing 46,82
+47,Machine Learning Essentials 47,69
+48,Cloud Computing Basics 48,67
+49,Python for Data Analysis 49,92
+50,SQL Fundamentals 50,74
+51,Data Modeling 51,23
+52,Machine Learning Essentials 52,43
+53,Cloud Computing Basics 53,68
+54,Machine Learning Essentials 54,66
+55,AWS Data Engineering 55,72
+56,Power BI & Visualization 56,91
+57,SQL Fundamentals 57,86
+58,DevOps for Data Platforms 58,92
+59,Data Warehousing 59,18
+60,Advanced Data Engineering 60,55
+61,Big Data Processing 61,43
+62,ETL Pipeline Design 62,52
+63,Advanced Data Engineering 63,43
+64,Machine Learning Essentials 64,28
+65,Power BI & Visualization 65,93
+66,AWS Data Engineering 66,51
+67,Spark & Distributed Systems 67,36
+68,SQL Fundamentals 68,33
+69,SQL Fundamentals 69,70
+70,AWS Data Engineering 70,67
+71,Power BI & Visualization 71,74
+72,Power BI & Visualization 72,14
+73,ETL Pipeline Design 73,10
+74,Spark & Distributed Systems 74,70
+75,Data Modeling 75,32
+76,ETL Pipeline Design 76,95
+77,Spark & Distributed Systems 77,25
+78,Data Warehousing 78,90
+79,ETL Pipeline Design 79,48
+80,Machine Learning Essentials 80,88
+81,DevOps for Data Platforms 81,94
+82,Advanced Data Engineering 82,51
+83,Python for Data Analysis 83,92
+84,SQL Fundamentals 84,26
+85,Power BI & Visualization 85,82
+86,DevOps for Data Platforms 86,71
+87,ETL Pipeline Design 87,93
+88,ETL Pipeline Design 88,73
+89,Python for Data Analysis 89,12
+90,Advanced Data Engineering 90,91
+91,DevOps for Data Platforms 91,28
+92,DevOps for Data Platforms 92,82
+93,Database Performance Tuning 93,24
+94,SQL Fundamentals 94,32
+95,Cloud Computing Basics 95,32
+96,Cloud Computing Basics 96,93
+97,Spark & Distributed Systems 97,46
+98,Data Warehousing 98,80
+99,Python for Data Analysis 99,83
+100,Big Data Processing 100,9
+101,Data Warehousing 101,11
+102,Python for Data Analysis 102,25
+103,Azure Data Services 103,10
+104,Database Performance Tuning 104,8
+105,AWS Data Engineering 105,14
+106,Database Performance Tuning 106,64
+107,Big Data Processing 107,12
+108,Big Data Processing 108,3
+109,Advanced Data Engineering 109,43
+110,DevOps for Data Platforms 110,80
+111,Data Warehousing 111,67
+112,Data Warehousing 112,17
+113,DevOps for Data Platforms 113,39
+114,DevOps for Data Platforms 114,48
+115,Azure Data Services 115,71
+116,DevOps for Data Platforms 116,41
+117,Python for Data Analysis 117,65
+118,Advanced Data Engineering 118,56
+119,Big Data Processing 119,77
+120,Data Warehousing 120,44
+121,Cloud Computing Basics 121,81
+122,Spark & Distributed Systems 122,34
+123,Machine Learning Essentials 123,3
+124,Python for Data Analysis 124,65
+125,Spark & Distributed Systems 125,34
+126,Database Performance Tuning 126,83
+127,Data Warehousing 127,70
+128,Power BI & Visualization 128,47
+129,AWS Data Engineering 129,52
+130,Database Performance Tuning 130,73
+131,Power BI & Visualization 131,54
+132,Python for Data Analysis 132,2
+133,ETL Pipeline Design 133,10
+134,Power BI & Visualization 134,75
+135,ETL Pipeline Design 135,5
+136,Data Warehousing 136,91
+137,Data Warehousing 137,15
+138,Machine Learning Essentials 138,83
+139,Big Data Processing 139,38
+140,Spark & Distributed Systems 140,59
+141,Advanced Data Engineering 141,56
+142,AWS Data Engineering 142,56
+143,Azure Data Services 143,56
+144,Database Performance Tuning 144,95
+145,SQL Fundamentals 145,30
+146,DevOps for Data Platforms 146,30
+147,DevOps for Data Platforms 147,88
+148,Advanced Data Engineering 148,61
+149,Data Warehousing 149,59
+150,AWS Data Engineering 150,75
+151,Data Warehousing 151,21
+152,Spark & Distributed Systems 152,100
+153,DevOps for Data Platforms 153,67
+154,ETL Pipeline Design 154,83
+155,Python for Data Analysis 155,21
+156,Python for Data Analysis 156,24
+157,ETL Pipeline Design 157,55
+158,Advanced Data Engineering 158,34
+159,Machine Learning Essentials 159,88
+160,Data Warehousing 160,80
+161,Spark & Distributed Systems 161,83
+162,Power BI & Visualization 162,43
+163,Advanced Data Engineering 163,75
+164,AWS Data Engineering 164,11
+165,AWS Data Engineering 165,72
+166,Advanced Data Engineering 166,100
+167,Advanced Data Engineering 167,57
+168,Spark & Distributed Systems 168,83
+169,Spark & Distributed Systems 169,93
+170,Azure Data Services 170,95
+171,Machine Learning Essentials 171,55
+172,SQL Fundamentals 172,99
+173,Power BI & Visualization 173,86
+174,AWS Data Engineering 174,87
+175,SQL Fundamentals 175,33
+176,Data Warehousing 176,82
+177,Data Warehousing 177,43
+178,Python for Data Analysis 178,49
+179,Database Performance Tuning 179,17
+180,Machine Learning Essentials 180,69
+181,Power BI & Visualization 181,47
+182,Cloud Computing Basics 182,76
+183,Machine Learning Essentials 183,39
+184,Azure Data Services 184,22
+185,Python for Data Analysis 185,38
+186,Data Modeling 186,39
+187,Data Warehousing 187,67
+188,Advanced Data Engineering 188,77
+189,Azure Data Services 189,93
+190,Advanced Data Engineering 190,18
+191,Python for Data Analysis 191,72
+192,Data Modeling 192,17
+193,Machine Learning Essentials 193,66
+194,ETL Pipeline Design 194,99
+195,SQL Fundamentals 195,2
+196,Cloud Computing Basics 196,46
+197,DevOps for Data Platforms 197,10
+198,Big Data Processing 198,19
+199,Spark & Distributed Systems 199,28
+200,SQL Fundamentals 200,93

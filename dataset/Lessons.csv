@@ -1,0 +1,1201 @@
+lesson_id,course_id,lesson_title,duration_minutes
+1,1,Introduction - Course 1,71
+2,1,Core Concepts - Course 1,63
+3,1,Introduction - Course 1,79
+4,1,Introduction - Course 1,34
+5,1,Advanced Techniques - Course 1,85
+6,1,Hands-on Practice - Course 1,36
+7,2,Hands-on Practice - Course 2,63
+8,2,Advanced Techniques - Course 2,54
+9,2,Review & Quiz - Course 2,36
+10,2,Advanced Techniques - Course 2,52
+11,2,Advanced Techniques - Course 2,49
+12,2,Core Concepts - Course 2,42
+13,3,Review & Quiz - Course 3,33
+14,3,Review & Quiz - Course 3,74
+15,3,Introduction - Course 3,62
+16,3,Hands-on Practice - Course 3,41
+17,3,Hands-on Practice - Course 3,54
+18,3,Advanced Techniques - Course 3,31
+19,4,Case Study - Course 4,85
+20,4,Hands-on Practice - Course 4,84
+21,4,Core Concepts - Course 4,38
+22,4,Core Concepts - Course 4,21
+23,4,Advanced Techniques - Course 4,77
+24,4,Introduction - Course 4,64
+25,5,Case Study - Course 5,31
+26,5,Hands-on Practice - Course 5,33
+27,5,Case Study - Course 5,83
+28,5,Hands-on Practice - Course 5,22
+29,5,Introduction - Course 5,35
+30,5,Core Concepts - Course 5,87
+31,6,Review & Quiz - Course 6,55
+32,6,Review & Quiz - Course 6,40
+33,6,Core Concepts - Course 6,69
+34,6,Advanced Techniques - Course 6,84
+35,6,Review & Quiz - Course 6,74
+36,6,Advanced Techniques - Course 6,69
+37,7,Advanced Techniques - Course 7,54
+38,7,Hands-on Practice - Course 7,86
+39,7,Review & Quiz - Course 7,72
+40,7,Hands-on Practice - Course 7,60
+41,7,Introduction - Course 7,56
+42,7,Hands-on Practice - Course 7,69
+43,8,Hands-on Practice - Course 8,58
+44,8,Introduction - Course 8,24
+45,8,Introduction - Course 8,29
+46,8,Advanced Techniques - Course 8,68
+47,8,Introduction - Course 8,61
+48,8,Review & Quiz - Course 8,90
+49,9,Core Concepts - Course 9,87
+50,9,Introduction - Course 9,90
+51,9,Core Concepts - Course 9,65
+52,9,Introduction - Course 9,31
+53,9,Introduction - Course 9,74
+54,9,Introduction - Course 9,83
+55,10,Case Study - Course 10,74
+56,10,Introduction - Course 10,58
+57,10,Hands-on Practice - Course 10,80
+58,10,Advanced Techniques - Course 10,36
+59,10,Review & Quiz - Course 10,21
+60,10,Case Study - Course 10,62
+61,11,Hands-on Practice - Course 11,28
+62,11,Review & Quiz - Course 11,62
+63,11,Advanced Techniques - Course 11,41
+64,11,Core Concepts - Course 11,47
+65,11,Hands-on Practice - Course 11,90
+66,11,Review & Quiz - Course 11,59
+67,12,Advanced Techniques - Course 12,48
+68,12,Case Study - Course 12,22
+69,12,Hands-on Practice - Course 12,59
+70,12,Advanced Techniques - Course 12,64
+71,12,Review & Quiz - Course 12,21
+72,12,Core Concepts - Course 12,35
+73,13,Introduction - Course 13,62
+74,13,Review & Quiz - Course 13,61
+75,13,Review & Quiz - Course 13,71
+76,13,Hands-on Practice - Course 13,21
+77,13,Core Concepts - Course 13,45
+78,13,Hands-on Practice - Course 13,49
+79,14,Hands-on Practice - Course 14,68
+80,14,Core Concepts - Course 14,76
+81,14,Case Study - Course 14,80
+82,14,Core Concepts - Course 14,75
+83,14,Case Study - Course 14,71
+84,14,Review & Quiz - Course 14,44
+85,15,Case Study - Course 15,90
+86,15,Case Study - Course 15,79
+87,15,Advanced Techniques - Course 15,73
+88,15,Advanced Techniques - Course 15,44
+89,15,Review & Quiz - Course 15,59
+90,15,Review & Quiz - Course 15,78
+91,16,Advanced Techniques - Course 16,65
+92,16,Case Study - Course 16,87
+93,16,Review & Quiz - Course 16,39
+94,16,Introduction - Course 16,56
+95,16,Core Concepts - Course 16,53
+96,16,Case Study - Course 16,25
+97,17,Advanced Techniques - Course 17,59
+98,17,Introduction - Course 17,89
+99,17,Introduction - Course 17,35
+100,17,Advanced Techniques - Course 17,71
+101,17,Introduction - Course 17,66
+102,17,Case Study - Course 17,24
+103,18,Review & Quiz - Course 18,63
+104,18,Case Study - Course 18,65
+105,18,Hands-on Practice - Course 18,80
+106,18,Hands-on Practice - Course 18,74
+107,18,Hands-on Practice - Course 18,66
+108,18,Advanced Techniques - Course 18,65
+109,19,Review & Quiz - Course 19,56
+110,19,Hands-on Practice - Course 19,34
+111,19,Review & Quiz - Course 19,24
+112,19,Hands-on Practice - Course 19,37
+113,19,Hands-on Practice - Course 19,42
+114,19,Core Concepts - Course 19,82
+115,20,Case Study - Course 20,77
+116,20,Review & Quiz - Course 20,41
+117,20,Advanced Techniques - Course 20,54
+118,20,Core Concepts - Course 20,67
+119,20,Core Concepts - Course 20,74
+120,20,Core Concepts - Course 20,73
+121,21,Case Study - Course 21,78
+122,21,Advanced Techniques - Course 21,75
+123,21,Advanced Techniques - Course 21,32
+124,21,Hands-on Practice - Course 21,82
+125,21,Review & Quiz - Course 21,75
+126,21,Core Concepts - Course 21,44
+127,22,Introduction - Course 22,53
+128,22,Core Concepts - Course 22,46
+129,22,Hands-on Practice - Course 22,30
+130,22,Case Study - Course 22,67
+131,22,Review & Quiz - Course 22,61
+132,22,Review & Quiz - Course 22,44
+133,23,Hands-on Practice - Course 23,62
+134,23,Hands-on Practice - Course 23,25
+135,23,Hands-on Practice - Course 23,38
+136,23,Introduction - Course 23,71
+137,23,Core Concepts - Course 23,61
+138,23,Core Concepts - Course 23,62
+139,24,Introduction - Course 24,63
+140,24,Case Study - Course 24,40
+141,24,Introduction - Course 24,37
+142,24,Hands-on Practice - Course 24,51
+143,24,Case Study - Course 24,27
+144,24,Case Study - Course 24,50
+145,25,Core Concepts - Course 25,21
+146,25,Case Study - Course 25,36
+147,25,Review & Quiz - Course 25,72
+148,25,Hands-on Practice - Course 25,37
+149,25,Review & Quiz - Course 25,41
+150,25,Introduction - Course 25,77
+151,26,Review & Quiz - Course 26,21
+152,26,Review & Quiz - Course 26,61
+153,26,Introduction - Course 26,70
+154,26,Core Concepts - Course 26,43
+155,26,Advanced Techniques - Course 26,62
+156,26,Hands-on Practice - Course 26,23
+157,27,Hands-on Practice - Course 27,39
+158,27,Advanced Techniques - Course 27,49
+159,27,Introduction - Course 27,31
+160,27,Introduction - Course 27,47
+161,27,Hands-on Practice - Course 27,67
+162,27,Hands-on Practice - Course 27,60
+163,28,Introduction - Course 28,37
+164,28,Advanced Techniques - Course 28,66
+165,28,Review & Quiz - Course 28,80
+166,28,Advanced Techniques - Course 28,31
+167,28,Review & Quiz - Course 28,59
+168,28,Review & Quiz - Course 28,42
+169,29,Advanced Techniques - Course 29,50
+170,29,Hands-on Practice - Course 29,34
+171,29,Core Concepts - Course 29,21
+172,29,Introduction - Course 29,41
+173,29,Hands-on Practice - Course 29,64
+174,29,Hands-on Practice - Course 29,25
+175,30,Core Concepts - Course 30,87
+176,30,Review & Quiz - Course 30,34
+177,30,Review & Quiz - Course 30,63
+178,30,Core Concepts - Course 30,77
+179,30,Review & Quiz - Course 30,32
+180,30,Review & Quiz - Course 30,32
+181,31,Case Study - Course 31,76
+182,31,Case Study - Course 31,66
+183,31,Hands-on Practice - Course 31,37
+184,31,Case Study - Course 31,86
+185,31,Review & Quiz - Course 31,57
+186,31,Review & Quiz - Course 31,71
+187,32,Core Concepts - Course 32,71
+188,32,Case Study - Course 32,32
+189,32,Review & Quiz - Course 32,68
+190,32,Case Study - Course 32,55
+191,32,Advanced Techniques - Course 32,89
+192,32,Review & Quiz - Course 32,72
+193,33,Review & Quiz - Course 33,41
+194,33,Advanced Techniques - Course 33,81
+195,33,Introduction - Course 33,59
+196,33,Core Concepts - Course 33,26
+197,33,Advanced Techniques - Course 33,37
+198,33,Introduction - Course 33,61
+199,34,Case Study - Course 34,70
+200,34,Review & Quiz - Course 34,25
+201,34,Review & Quiz - Course 34,37
+202,34,Hands-on Practice - Course 34,46
+203,34,Advanced Techniques - Course 34,86
+204,34,Advanced Techniques - Course 34,86
+205,35,Hands-on Practice - Course 35,84
+206,35,Review & Quiz - Course 35,43
+207,35,Core Concepts - Course 35,54
+208,35,Case Study - Course 35,40
+209,35,Core Concepts - Course 35,85
+210,35,Introduction - Course 35,64
+211,36,Review & Quiz - Course 36,56
+212,36,Advanced Techniques - Course 36,80
+213,36,Core Concepts - Course 36,55
+214,36,Core Concepts - Course 36,24
+215,36,Review & Quiz - Course 36,54
+216,36,Case Study - Course 36,60
+217,37,Review & Quiz - Course 37,52
+218,37,Core Concepts - Course 37,66
+219,37,Core Concepts - Course 37,83
+220,37,Advanced Techniques - Course 37,20
+221,37,Review & Quiz - Course 37,55
+222,37,Introduction - Course 37,47
+223,38,Core Concepts - Course 38,85
+224,38,Hands-on Practice - Course 38,49
+225,38,Case Study - Course 38,43
+226,38,Advanced Techniques - Course 38,49
+227,38,Review & Quiz - Course 38,65
+228,38,Core Concepts - Course 38,82
+229,39,Review & Quiz - Course 39,48
+230,39,Review & Quiz - Course 39,35
+231,39,Advanced Techniques - Course 39,38
+232,39,Advanced Techniques - Course 39,26
+233,39,Case Study - Course 39,70
+234,39,Review & Quiz - Course 39,69
+235,40,Core Concepts - Course 40,61
+236,40,Hands-on Practice - Course 40,66
+237,40,Introduction - Course 40,47
+238,40,Introduction - Course 40,54
+239,40,Core Concepts - Course 40,86
+240,40,Hands-on Practice - Course 40,73
+241,41,Advanced Techniques - Course 41,30
+242,41,Case Study - Course 41,28
+243,41,Review & Quiz - Course 41,40
+244,41,Hands-on Practice - Course 41,70
+245,41,Hands-on Practice - Course 41,40
+246,41,Hands-on Practice - Course 41,32
+247,42,Advanced Techniques - Course 42,47
+248,42,Case Study - Course 42,37
+249,42,Case Study - Course 42,26
+250,42,Case Study - Course 42,43
+251,42,Case Study - Course 42,59
+252,42,Core Concepts - Course 42,21
+253,43,Core Concepts - Course 43,22
+254,43,Introduction - Course 43,22
+255,43,Hands-on Practice - Course 43,85
+256,43,Case Study - Course 43,66
+257,43,Introduction - Course 43,56
+258,43,Introduction - Course 43,50
+259,44,Hands-on Practice - Course 44,75
+260,44,Core Concepts - Course 44,31
+261,44,Hands-on Practice - Course 44,56
+262,44,Review & Quiz - Course 44,74
+263,44,Case Study - Course 44,44
+264,44,Hands-on Practice - Course 44,41
+265,45,Hands-on Practice - Course 45,75
+266,45,Review & Quiz - Course 45,88
+267,45,Advanced Techniques - Course 45,42
+268,45,Hands-on Practice - Course 45,78
+269,45,Advanced Techniques - Course 45,66
+270,45,Advanced Techniques - Course 45,30
+271,46,Core Concepts - Course 46,27
+272,46,Hands-on Practice - Course 46,27
+273,46,Core Concepts - Course 46,55
+274,46,Review & Quiz - Course 46,82
+275,46,Hands-on Practice - Course 46,75
+276,46,Introduction - Course 46,80
+277,47,Advanced Techniques - Course 47,70
+278,47,Case Study - Course 47,87
+279,47,Core Concepts - Course 47,87
+280,47,Case Study - Course 47,23
+281,47,Hands-on Practice - Course 47,74
+282,47,Core Concepts - Course 47,54
+283,48,Introduction - Course 48,65
+284,48,Case Study - Course 48,40
+285,48,Introduction - Course 48,23
+286,48,Case Study - Course 48,78
+287,48,Advanced Techniques - Course 48,36
+288,48,Review & Quiz - Course 48,47
+289,49,Core Concepts - Course 49,67
+290,49,Introduction - Course 49,52
+291,49,Review & Quiz - Course 49,80
+292,49,Hands-on Practice - Course 49,56
+293,49,Introduction - Course 49,61
+294,49,Core Concepts - Course 49,60
+295,50,Advanced Techniques - Course 50,23
+296,50,Advanced Techniques - Course 50,24
+297,50,Case Study - Course 50,27
+298,50,Introduction - Course 50,67
+299,50,Review & Quiz - Course 50,71
+300,50,Advanced Techniques - Course 50,51
+301,51,Introduction - Course 51,24
+302,51,Case Study - Course 51,52
+303,51,Case Study - Course 51,88
+304,51,Core Concepts - Course 51,72
+305,51,Review & Quiz - Course 51,79
+306,51,Hands-on Practice - Course 51,22
+307,52,Review & Quiz - Course 52,35
+308,52,Hands-on Practice - Course 52,64
+309,52,Core Concepts - Course 52,20
+310,52,Review & Quiz - Course 52,47
+311,52,Introduction - Course 52,52
+312,52,Review & Quiz - Course 52,50
+313,53,Introduction - Course 53,83
+314,53,Introduction - Course 53,43
+315,53,Introduction - Course 53,82
+316,53,Hands-on Practice - Course 53,78
+317,53,Core Concepts - Course 53,89
+318,53,Review & Quiz - Course 53,45
+319,54,Core Concepts - Course 54,51
+320,54,Introduction - Course 54,54
+321,54,Introduction - Course 54,82
+322,54,Case Study - Course 54,71
+323,54,Introduction - Course 54,75
+324,54,Hands-on Practice - Course 54,38
+325,55,Core Concepts - Course 55,23
+326,55,Review & Quiz - Course 55,29
+327,55,Core Concepts - Course 55,67
+328,55,Advanced Techniques - Course 55,69
+329,55,Introduction - Course 55,42
+330,55,Case Study - Course 55,24
+331,56,Advanced Techniques - Course 56,58
+332,56,Advanced Techniques - Course 56,46
+333,56,Case Study - Course 56,57
+334,56,Case Study - Course 56,70
+335,56,Introduction - Course 56,45
+336,56,Introduction - Course 56,25
+337,57,Review & Quiz - Course 57,79
+338,57,Advanced Techniques - Course 57,47
+339,57,Review & Quiz - Course 57,59
+340,57,Review & Quiz - Course 57,22
+341,57,Core Concepts - Course 57,72
+342,57,Case Study - Course 57,20
+343,58,Hands-on Practice - Course 58,55
+344,58,Core Concepts - Course 58,42
+345,58,Advanced Techniques - Course 58,67
+346,58,Review & Quiz - Course 58,29
+347,58,Case Study - Course 58,73
+348,58,Advanced Techniques - Course 58,58
+349,59,Introduction - Course 59,22
+350,59,Case Study - Course 59,66
+351,59,Advanced Techniques - Course 59,38
+352,59,Case Study - Course 59,63
+353,59,Core Concepts - Course 59,23
+354,59,Core Concepts - Course 59,20
+355,60,Advanced Techniques - Course 60,59
+356,60,Introduction - Course 60,84
+357,60,Advanced Techniques - Course 60,48
+358,60,Hands-on Practice - Course 60,23
+359,60,Review & Quiz - Course 60,56
+360,60,Core Concepts - Course 60,26
+361,61,Introduction - Course 61,68
+362,61,Advanced Techniques - Course 61,73
+363,61,Core Concepts - Course 61,26
+364,61,Hands-on Practice - Course 61,28
+365,61,Introduction - Course 61,87
+366,61,Advanced Techniques - Course 61,72
+367,62,Advanced Techniques - Course 62,22
+368,62,Review & Quiz - Course 62,71
+369,62,Hands-on Practice - Course 62,60
+370,62,Hands-on Practice - Course 62,64
+371,62,Hands-on Practice - Course 62,63
+372,62,Advanced Techniques - Course 62,67
+373,63,Advanced Techniques - Course 63,49
+374,63,Introduction - Course 63,47
+375,63,Review & Quiz - Course 63,50
+376,63,Hands-on Practice - Course 63,38
+377,63,Review & Quiz - Course 63,34
+378,63,Case Study - Course 63,51
+379,64,Advanced Techniques - Course 64,86
+380,64,Advanced Techniques - Course 64,27
+381,64,Advanced Techniques - Course 64,87
+382,64,Hands-on Practice - Course 64,25
+383,64,Core Concepts - Course 64,54
+384,64,Review & Quiz - Course 64,81
+385,65,Hands-on Practice - Course 65,85
+386,65,Core Concepts - Course 65,30
+387,65,Advanced Techniques - Course 65,42
+388,65,Review & Quiz - Course 65,47
+389,65,Case Study - Course 65,80
+390,65,Introduction - Course 65,66
+391,66,Core Concepts - Course 66,73
+392,66,Case Study - Course 66,33
+393,66,Review & Quiz - Course 66,39
+394,66,Core Concepts - Course 66,31
+395,66,Review & Quiz - Course 66,81
+396,66,Hands-on Practice - Course 66,48
+397,67,Core Concepts - Course 67,51
+398,67,Advanced Techniques - Course 67,34
+399,67,Review & Quiz - Course 67,60
+400,67,Core Concepts - Course 67,40
+401,67,Introduction - Course 67,36
+402,67,Introduction - Course 67,47
+403,68,Introduction - Course 68,57
+404,68,Introduction - Course 68,90
+405,68,Advanced Techniques - Course 68,81
+406,68,Core Concepts - Course 68,31
+407,68,Core Concepts - Course 68,66
+408,68,Case Study - Course 68,66
+409,69,Introduction - Course 69,34
+410,69,Core Concepts - Course 69,46
+411,69,Case Study - Course 69,62
+412,69,Hands-on Practice - Course 69,39
+413,69,Hands-on Practice - Course 69,31
+414,69,Hands-on Practice - Course 69,75
+415,70,Case Study - Course 70,85
+416,70,Hands-on Practice - Course 70,71
+417,70,Core Concepts - Course 70,33
+418,70,Core Concepts - Course 70,44
+419,70,Advanced Techniques - Course 70,22
+420,70,Review & Quiz - Course 70,77
+421,71,Core Concepts - Course 71,73
+422,71,Case Study - Course 71,76
+423,71,Review & Quiz - Course 71,67
+424,71,Advanced Techniques - Course 71,55
+425,71,Advanced Techniques - Course 71,42
+426,71,Case Study - Course 71,40
+427,72,Introduction - Course 72,23
+428,72,Introduction - Course 72,53
+429,72,Introduction - Course 72,71
+430,72,Hands-on Practice - Course 72,87
+431,72,Review & Quiz - Course 72,83
+432,72,Case Study - Course 72,86
+433,73,Case Study - Course 73,61
+434,73,Review & Quiz - Course 73,31
+435,73,Review & Quiz - Course 73,28
+436,73,Review & Quiz - Course 73,54
+437,73,Core Concepts - Course 73,65
+438,73,Introduction - Course 73,23
+439,74,Core Concepts - Course 74,72
+440,74,Advanced Techniques - Course 74,22
+441,74,Review & Quiz - Course 74,61
+442,74,Advanced Techniques - Course 74,55
+443,74,Case Study - Course 74,55
+444,74,Hands-on Practice - Course 74,32
+445,75,Introduction - Course 75,45
+446,75,Advanced Techniques - Course 75,43
+447,75,Review & Quiz - Course 75,53
+448,75,Hands-on Practice - Course 75,28
+449,75,Review & Quiz - Course 75,49
+450,75,Core Concepts - Course 75,86
+451,76,Review & Quiz - Course 76,49
+452,76,Advanced Techniques - Course 76,27
+453,76,Hands-on Practice - Course 76,82
+454,76,Case Study - Course 76,42
+455,76,Advanced Techniques - Course 76,79
+456,76,Introduction - Course 76,37
+457,77,Advanced Techniques - Course 77,81
+458,77,Introduction - Course 77,84
+459,77,Hands-on Practice - Course 77,63
+460,77,Case Study - Course 77,38
+461,77,Case Study - Course 77,28
+462,77,Review & Quiz - Course 77,24
+463,78,Hands-on Practice - Course 78,39
+464,78,Introduction - Course 78,56
+465,78,Introduction - Course 78,53
+466,78,Advanced Techniques - Course 78,43
+467,78,Review & Quiz - Course 78,21
+468,78,Core Concepts - Course 78,53
+469,79,Case Study - Course 79,67
+470,79,Advanced Techniques - Course 79,33
+471,79,Hands-on Practice - Course 79,28
+472,79,Case Study - Course 79,20
+473,79,Introduction - Course 79,75
+474,79,Advanced Techniques - Course 79,71
+475,80,Review & Quiz - Course 80,57
+476,80,Advanced Techniques - Course 80,37
+477,80,Core Concepts - Course 80,55
+478,80,Introduction - Course 80,84
+479,80,Hands-on Practice - Course 80,39
+480,80,Introduction - Course 80,24
+481,81,Review & Quiz - Course 81,36
+482,81,Advanced Techniques - Course 81,30
+483,81,Hands-on Practice - Course 81,39
+484,81,Case Study - Course 81,29
+485,81,Hands-on Practice - Course 81,58
+486,81,Review & Quiz - Course 81,36
+487,82,Hands-on Practice - Course 82,74
+488,82,Introduction - Course 82,49
+489,82,Hands-on Practice - Course 82,42
+490,82,Core Concepts - Course 82,54
+491,82,Core Concepts - Course 82,67
+492,82,Hands-on Practice - Course 82,74
+493,83,Review & Quiz - Course 83,34
+494,83,Hands-on Practice - Course 83,57
+495,83,Case Study - Course 83,68
+496,83,Advanced Techniques - Course 83,82
+497,83,Core Concepts - Course 83,41
+498,83,Introduction - Course 83,52
+499,84,Review & Quiz - Course 84,47
+500,84,Review & Quiz - Course 84,71
+501,84,Introduction - Course 84,40
+502,84,Advanced Techniques - Course 84,20
+503,84,Case Study - Course 84,24
+504,84,Introduction - Course 84,88
+505,85,Introduction - Course 85,21
+506,85,Core Concepts - Course 85,37
+507,85,Advanced Techniques - Course 85,43
+508,85,Case Study - Course 85,37
+509,85,Hands-on Practice - Course 85,63
+510,85,Introduction - Course 85,36
+511,86,Hands-on Practice - Course 86,53
+512,86,Case Study - Course 86,36
+513,86,Introduction - Course 86,49
+514,86,Advanced Techniques - Course 86,89
+515,86,Hands-on Practice - Course 86,29
+516,86,Advanced Techniques - Course 86,85
+517,87,Hands-on Practice - Course 87,46
+518,87,Introduction - Course 87,38
+519,87,Hands-on Practice - Course 87,90
+520,87,Hands-on Practice - Course 87,56
+521,87,Case Study - Course 87,22
+522,87,Hands-on Practice - Course 87,85
+523,88,Review & Quiz - Course 88,48
+524,88,Hands-on Practice - Course 88,36
+525,88,Case Study - Course 88,24
+526,88,Core Concepts - Course 88,77
+527,88,Review & Quiz - Course 88,75
+528,88,Review & Quiz - Course 88,68
+529,89,Introduction - Course 89,45
+530,89,Review & Quiz - Course 89,86
+531,89,Case Study - Course 89,66
+532,89,Case Study - Course 89,24
+533,89,Case Study - Course 89,40
+534,89,Advanced Techniques - Course 89,83
+535,90,Introduction - Course 90,25
+536,90,Advanced Techniques - Course 90,82
+537,90,Advanced Techniques - Course 90,66
+538,90,Introduction - Course 90,31
+539,90,Core Concepts - Course 90,64
+540,90,Core Concepts - Course 90,71
+541,91,Introduction - Course 91,75
+542,91,Case Study - Course 91,30
+543,91,Case Study - Course 91,71
+544,91,Core Concepts - Course 91,60
+545,91,Hands-on Practice - Course 91,60
+546,91,Case Study - Course 91,88
+547,92,Hands-on Practice - Course 92,38
+548,92,Case Study - Course 92,73
+549,92,Core Concepts - Course 92,59
+550,92,Review & Quiz - Course 92,38
+551,92,Review & Quiz - Course 92,42
+552,92,Case Study - Course 92,53
+553,93,Review & Quiz - Course 93,86
+554,93,Introduction - Course 93,53
+555,93,Advanced Techniques - Course 93,79
+556,93,Introduction - Course 93,84
+557,93,Hands-on Practice - Course 93,46
+558,93,Introduction - Course 93,82
+559,94,Core Concepts - Course 94,20
+560,94,Core Concepts - Course 94,30
+561,94,Case Study - Course 94,59
+562,94,Introduction - Course 94,28
+563,94,Advanced Techniques - Course 94,25
+564,94,Hands-on Practice - Course 94,26
+565,95,Introduction - Course 95,88
+566,95,Introduction - Course 95,67
+567,95,Review & Quiz - Course 95,79
+568,95,Case Study - Course 95,27
+569,95,Introduction - Course 95,78
+570,95,Introduction - Course 95,35
+571,96,Hands-on Practice - Course 96,53
+572,96,Review & Quiz - Course 96,51
+573,96,Case Study - Course 96,25
+574,96,Introduction - Course 96,22
+575,96,Introduction - Course 96,46
+576,96,Introduction - Course 96,57
+577,97,Hands-on Practice - Course 97,81
+578,97,Introduction - Course 97,86
+579,97,Core Concepts - Course 97,53
+580,97,Case Study - Course 97,22
+581,97,Core Concepts - Course 97,83
+582,97,Advanced Techniques - Course 97,78
+583,98,Review & Quiz - Course 98,64
+584,98,Case Study - Course 98,33
+585,98,Introduction - Course 98,80
+586,98,Case Study - Course 98,29
+587,98,Hands-on Practice - Course 98,21
+588,98,Hands-on Practice - Course 98,70
+589,99,Hands-on Practice - Course 99,31
+590,99,Advanced Techniques - Course 99,65
+591,99,Hands-on Practice - Course 99,58
+592,99,Case Study - Course 99,20
+593,99,Case Study - Course 99,86
+594,99,Review & Quiz - Course 99,68
+595,100,Advanced Techniques - Course 100,87
+596,100,Review & Quiz - Course 100,50
+597,100,Advanced Techniques - Course 100,89
+598,100,Case Study - Course 100,72
+599,100,Case Study - Course 100,22
+600,100,Introduction - Course 100,68
+601,101,Case Study - Course 101,27
+602,101,Review & Quiz - Course 101,24
+603,101,Advanced Techniques - Course 101,38
+604,101,Introduction - Course 101,73
+605,101,Core Concepts - Course 101,51
+606,101,Core Concepts - Course 101,73
+607,102,Case Study - Course 102,48
+608,102,Review & Quiz - Course 102,47
+609,102,Hands-on Practice - Course 102,48
+610,102,Hands-on Practice - Course 102,61
+611,102,Advanced Techniques - Course 102,51
+612,102,Review & Quiz - Course 102,42
+613,103,Case Study - Course 103,27
+614,103,Core Concepts - Course 103,39
+615,103,Advanced Techniques - Course 103,83
+616,103,Hands-on Practice - Course 103,45
+617,103,Hands-on Practice - Course 103,67
+618,103,Introduction - Course 103,80
+619,104,Case Study - Course 104,80
+620,104,Core Concepts - Course 104,74
+621,104,Core Concepts - Course 104,83
+622,104,Case Study - Course 104,47
+623,104,Core Concepts - Course 104,32
+624,104,Hands-on Practice - Course 104,58
+625,105,Hands-on Practice - Course 105,30
+626,105,Review & Quiz - Course 105,20
+627,105,Review & Quiz - Course 105,85
+628,105,Advanced Techniques - Course 105,57
+629,105,Hands-on Practice - Course 105,37
+630,105,Introduction - Course 105,24
+631,106,Introduction - Course 106,40
+632,106,Case Study - Course 106,85
+633,106,Hands-on Practice - Course 106,34
+634,106,Advanced Techniques - Course 106,25
+635,106,Advanced Techniques - Course 106,90
+636,106,Hands-on Practice - Course 106,46
+637,107,Core Concepts - Course 107,21
+638,107,Introduction - Course 107,35
+639,107,Advanced Techniques - Course 107,39
+640,107,Introduction - Course 107,69
+641,107,Introduction - Course 107,50
+642,107,Review & Quiz - Course 107,45
+643,108,Hands-on Practice - Course 108,88
+644,108,Advanced Techniques - Course 108,76
+645,108,Hands-on Practice - Course 108,84
+646,108,Review & Quiz - Course 108,70
+647,108,Core Concepts - Course 108,41
+648,108,Review & Quiz - Course 108,69
+649,109,Core Concepts - Course 109,56
+650,109,Introduction - Course 109,56
+651,109,Core Concepts - Course 109,39
+652,109,Advanced Techniques - Course 109,69
+653,109,Review & Quiz - Course 109,64
+654,109,Case Study - Course 109,42
+655,110,Hands-on Practice - Course 110,47
+656,110,Introduction - Course 110,63
+657,110,Case Study - Course 110,86
+658,110,Case Study - Course 110,45
+659,110,Hands-on Practice - Course 110,70
+660,110,Review & Quiz - Course 110,78
+661,111,Case Study - Course 111,44
+662,111,Core Concepts - Course 111,86
+663,111,Core Concepts - Course 111,33
+664,111,Core Concepts - Course 111,56
+665,111,Hands-on Practice - Course 111,32
+666,111,Review & Quiz - Course 111,33
+667,112,Case Study - Course 112,22
+668,112,Core Concepts - Course 112,59
+669,112,Review & Quiz - Course 112,64
+670,112,Hands-on Practice - Course 112,72
+671,112,Core Concepts - Course 112,63
+672,112,Introduction - Course 112,62
+673,113,Review & Quiz - Course 113,21
+674,113,Core Concepts - Course 113,49
+675,113,Introduction - Course 113,60
+676,113,Case Study - Course 113,72
+677,113,Case Study - Course 113,26
+678,113,Hands-on Practice - Course 113,48
+679,114,Advanced Techniques - Course 114,71
+680,114,Hands-on Practice - Course 114,41
+681,114,Review & Quiz - Course 114,21
+682,114,Hands-on Practice - Course 114,48
+683,114,Review & Quiz - Course 114,32
+684,114,Hands-on Practice - Course 114,58
+685,115,Core Concepts - Course 115,58
+686,115,Case Study - Course 115,78
+687,115,Advanced Techniques - Course 115,66
+688,115,Advanced Techniques - Course 115,52
+689,115,Case Study - Course 115,68
+690,115,Case Study - Course 115,40
+691,116,Advanced Techniques - Course 116,87
+692,116,Review & Quiz - Course 116,38
+693,116,Introduction - Course 116,31
+694,116,Review & Quiz - Course 116,84
+695,116,Advanced Techniques - Course 116,32
+696,116,Introduction - Course 116,21
+697,117,Core Concepts - Course 117,83
+698,117,Hands-on Practice - Course 117,69
+699,117,Review & Quiz - Course 117,73
+700,117,Review & Quiz - Course 117,64
+701,117,Case Study - Course 117,78
+702,117,Core Concepts - Course 117,29
+703,118,Core Concepts - Course 118,74
+704,118,Introduction - Course 118,37
+705,118,Advanced Techniques - Course 118,77
+706,118,Advanced Techniques - Course 118,83
+707,118,Hands-on Practice - Course 118,53
+708,118,Introduction - Course 118,58
+709,119,Core Concepts - Course 119,67
+710,119,Advanced Techniques - Course 119,71
+711,119,Introduction - Course 119,81
+712,119,Core Concepts - Course 119,67
+713,119,Advanced Techniques - Course 119,62
+714,119,Review & Quiz - Course 119,87
+715,120,Introduction - Course 120,89
+716,120,Advanced Techniques - Course 120,85
+717,120,Advanced Techniques - Course 120,88
+718,120,Advanced Techniques - Course 120,36
+719,120,Core Concepts - Course 120,59
+720,120,Review & Quiz - Course 120,89
+721,121,Review & Quiz - Course 121,80
+722,121,Advanced Techniques - Course 121,28
+723,121,Case Study - Course 121,36
+724,121,Introduction - Course 121,40
+725,121,Hands-on Practice - Course 121,89
+726,121,Advanced Techniques - Course 121,35
+727,122,Case Study - Course 122,38
+728,122,Hands-on Practice - Course 122,42
+729,122,Review & Quiz - Course 122,64
+730,122,Case Study - Course 122,71
+731,122,Case Study - Course 122,20
+732,122,Core Concepts - Course 122,59
+733,123,Introduction - Course 123,79
+734,123,Advanced Techniques - Course 123,57
+735,123,Core Concepts - Course 123,79
+736,123,Introduction - Course 123,35
+737,123,Hands-on Practice - Course 123,52
+738,123,Introduction - Course 123,87
+739,124,Hands-on Practice - Course 124,23
+740,124,Introduction - Course 124,77
+741,124,Hands-on Practice - Course 124,20
+742,124,Advanced Techniques - Course 124,32
+743,124,Advanced Techniques - Course 124,29
+744,124,Review & Quiz - Course 124,22
+745,125,Hands-on Practice - Course 125,51
+746,125,Core Concepts - Course 125,53
+747,125,Hands-on Practice - Course 125,71
+748,125,Advanced Techniques - Course 125,53
+749,125,Advanced Techniques - Course 125,56
+750,125,Hands-on Practice - Course 125,37
+751,126,Hands-on Practice - Course 126,33
+752,126,Hands-on Practice - Course 126,20
+753,126,Case Study - Course 126,43
+754,126,Core Concepts - Course 126,55
+755,126,Core Concepts - Course 126,75
+756,126,Introduction - Course 126,61
+757,127,Hands-on Practice - Course 127,52
+758,127,Case Study - Course 127,85
+759,127,Core Concepts - Course 127,72
+760,127,Hands-on Practice - Course 127,70
+761,127,Hands-on Practice - Course 127,72
+762,127,Advanced Techniques - Course 127,46
+763,128,Introduction - Course 128,34
+764,128,Hands-on Practice - Course 128,54
+765,128,Advanced Techniques - Course 128,31
+766,128,Core Concepts - Course 128,26
+767,128,Introduction - Course 128,39
+768,128,Advanced Techniques - Course 128,60
+769,129,Advanced Techniques - Course 129,33
+770,129,Case Study - Course 129,90
+771,129,Case Study - Course 129,61
+772,129,Case Study - Course 129,48
+773,129,Review & Quiz - Course 129,85
+774,129,Case Study - Course 129,89
+775,130,Hands-on Practice - Course 130,84
+776,130,Hands-on Practice - Course 130,36
+777,130,Advanced Techniques - Course 130,88
+778,130,Case Study - Course 130,31
+779,130,Advanced Techniques - Course 130,27
+780,130,Core Concepts - Course 130,62
+781,131,Core Concepts - Course 131,76
+782,131,Introduction - Course 131,41
+783,131,Review & Quiz - Course 131,73
+784,131,Case Study - Course 131,44
+785,131,Review & Quiz - Course 131,78
+786,131,Advanced Techniques - Course 131,64
+787,132,Introduction - Course 132,81
+788,132,Advanced Techniques - Course 132,74
+789,132,Case Study - Course 132,69
+790,132,Advanced Techniques - Course 132,76
+791,132,Hands-on Practice - Course 132,74
+792,132,Hands-on Practice - Course 132,48
+793,133,Introduction - Course 133,55
+794,133,Introduction - Course 133,87
+795,133,Advanced Techniques - Course 133,35
+796,133,Hands-on Practice - Course 133,51
+797,133,Introduction - Course 133,35
+798,133,Hands-on Practice - Course 133,34
+799,134,Hands-on Practice - Course 134,55
+800,134,Advanced Techniques - Course 134,82
+801,134,Core Concepts - Course 134,67
+802,134,Core Concepts - Course 134,65
+803,134,Case Study - Course 134,79
+804,134,Hands-on Practice - Course 134,24
+805,135,Hands-on Practice - Course 135,82
+806,135,Case Study - Course 135,46
+807,135,Hands-on Practice - Course 135,40
+808,135,Hands-on Practice - Course 135,23
+809,135,Review & Quiz - Course 135,57
+810,135,Introduction - Course 135,66
+811,136,Review & Quiz - Course 136,44
+812,136,Core Concepts - Course 136,59
+813,136,Introduction - Course 136,81
+814,136,Hands-on Practice - Course 136,43
+815,136,Review & Quiz - Course 136,46
+816,136,Hands-on Practice - Course 136,23
+817,137,Hands-on Practice - Course 137,61
+818,137,Review & Quiz - Course 137,89
+819,137,Case Study - Course 137,38
+820,137,Hands-on Practice - Course 137,74
+821,137,Case Study - Course 137,62
+822,137,Hands-on Practice - Course 137,89
+823,138,Review & Quiz - Course 138,27
+824,138,Hands-on Practice - Course 138,60
+825,138,Hands-on Practice - Course 138,41
+826,138,Case Study - Course 138,52
+827,138,Case Study - Course 138,49
+828,138,Core Concepts - Course 138,74
+829,139,Advanced Techniques - Course 139,58
+830,139,Core Concepts - Course 139,33
+831,139,Advanced Techniques - Course 139,39
+832,139,Core Concepts - Course 139,21
+833,139,Review & Quiz - Course 139,80
+834,139,Case Study - Course 139,33
+835,140,Introduction - Course 140,24
+836,140,Review & Quiz - Course 140,40
+837,140,Introduction - Course 140,88
+838,140,Introduction - Course 140,22
+839,140,Hands-on Practice - Course 140,47
+840,140,Hands-on Practice - Course 140,63
+841,141,Core Concepts - Course 141,88
+842,141,Introduction - Course 141,83
+843,141,Core Concepts - Course 141,82
+844,141,Advanced Techniques - Course 141,64
+845,141,Advanced Techniques - Course 141,35
+846,141,Core Concepts - Course 141,40
+847,142,Review & Quiz - Course 142,85
+848,142,Case Study - Course 142,61
+849,142,Review & Quiz - Course 142,43
+850,142,Hands-on Practice - Course 142,49
+851,142,Case Study - Course 142,29
+852,142,Advanced Techniques - Course 142,82
+853,143,Core Concepts - Course 143,49
+854,143,Case Study - Course 143,63
+855,143,Hands-on Practice - Course 143,77
+856,143,Introduction - Course 143,82
+857,143,Hands-on Practice - Course 143,73
+858,143,Core Concepts - Course 143,65
+859,144,Review & Quiz - Course 144,39
+860,144,Case Study - Course 144,48
+861,144,Introduction - Course 144,64
+862,144,Review & Quiz - Course 144,52
+863,144,Hands-on Practice - Course 144,61
+864,144,Hands-on Practice - Course 144,21
+865,145,Hands-on Practice - Course 145,69
+866,145,Review & Quiz - Course 145,62
+867,145,Review & Quiz - Course 145,66
+868,145,Review & Quiz - Course 145,88
+869,145,Advanced Techniques - Course 145,48
+870,145,Core Concepts - Course 145,56
+871,146,Advanced Techniques - Course 146,39
+872,146,Case Study - Course 146,33
+873,146,Introduction - Course 146,76
+874,146,Introduction - Course 146,51
+875,146,Review & Quiz - Course 146,87
+876,146,Advanced Techniques - Course 146,43
+877,147,Case Study - Course 147,55
+878,147,Introduction - Course 147,26
+879,147,Hands-on Practice - Course 147,78
+880,147,Hands-on Practice - Course 147,86
+881,147,Introduction - Course 147,88
+882,147,Case Study - Course 147,76
+883,148,Review & Quiz - Course 148,88
+884,148,Hands-on Practice - Course 148,34
+885,148,Review & Quiz - Course 148,57
+886,148,Advanced Techniques - Course 148,89
+887,148,Hands-on Practice - Course 148,28
+888,148,Introduction - Course 148,48
+889,149,Hands-on Practice - Course 149,43
+890,149,Case Study - Course 149,73
+891,149,Introduction - Course 149,35
+892,149,Hands-on Practice - Course 149,43
+893,149,Case Study - Course 149,26
+894,149,Hands-on Practice - Course 149,52
+895,150,Introduction - Course 150,66
+896,150,Core Concepts - Course 150,90
+897,150,Hands-on Practice - Course 150,39
+898,150,Advanced Techniques - Course 150,51
+899,150,Core Concepts - Course 150,76
+900,150,Core Concepts - Course 150,77
+901,151,Advanced Techniques - Course 151,24
+902,151,Review & Quiz - Course 151,30
+903,151,Review & Quiz - Course 151,62
+904,151,Introduction - Course 151,77
+905,151,Case Study - Course 151,87
+906,151,Review & Quiz - Course 151,75
+907,152,Case Study - Course 152,48
+908,152,Core Concepts - Course 152,29
+909,152,Advanced Techniques - Course 152,58
+910,152,Case Study - Course 152,20
+911,152,Review & Quiz - Course 152,68
+912,152,Core Concepts - Course 152,58
+913,153,Review & Quiz - Course 153,42
+914,153,Hands-on Practice - Course 153,51
+915,153,Introduction - Course 153,37
+916,153,Hands-on Practice - Course 153,31
+917,153,Review & Quiz - Course 153,63
+918,153,Core Concepts - Course 153,21
+919,154,Introduction - Course 154,25
+920,154,Review & Quiz - Course 154,61
+921,154,Review & Quiz - Course 154,70
+922,154,Case Study - Course 154,49
+923,154,Introduction - Course 154,44
+924,154,Review & Quiz - Course 154,68
+925,155,Review & Quiz - Course 155,53
+926,155,Review & Quiz - Course 155,34
+927,155,Introduction - Course 155,24
+928,155,Advanced Techniques - Course 155,20
+929,155,Core Concepts - Course 155,24
+930,155,Hands-on Practice - Course 155,80
+931,156,Introduction - Course 156,71
+932,156,Review & Quiz - Course 156,32
+933,156,Core Concepts - Course 156,83
+934,156,Introduction - Course 156,46
+935,156,Review & Quiz - Course 156,73
+936,156,Case Study - Course 156,25
+937,157,Introduction - Course 157,39
+938,157,Introduction - Course 157,61
+939,157,Case Study - Course 157,69
+940,157,Advanced Techniques - Course 157,85
+941,157,Case Study - Course 157,35
+942,157,Hands-on Practice - Course 157,70
+943,158,Core Concepts - Course 158,87
+944,158,Hands-on Practice - Course 158,74
+945,158,Introduction - Course 158,36
+946,158,Hands-on Practice - Course 158,65
+947,158,Core Concepts - Course 158,49
+948,158,Hands-on Practice - Course 158,60
+949,159,Advanced Techniques - Course 159,87
+950,159,Advanced Techniques - Course 159,88
+951,159,Hands-on Practice - Course 159,50
+952,159,Core Concepts - Course 159,29
+953,159,Core Concepts - Course 159,41
+954,159,Introduction - Course 159,90
+955,160,Advanced Techniques - Course 160,81
+956,160,Case Study - Course 160,74
+957,160,Case Study - Course 160,27
+958,160,Core Concepts - Course 160,21
+959,160,Case Study - Course 160,81
+960,160,Hands-on Practice - Course 160,82
+961,161,Case Study - Course 161,49
+962,161,Review & Quiz - Course 161,24
+963,161,Review & Quiz - Course 161,24
+964,161,Review & Quiz - Course 161,64
+965,161,Core Concepts - Course 161,86
+966,161,Review & Quiz - Course 161,37
+967,162,Introduction - Course 162,86
+968,162,Case Study - Course 162,30
+969,162,Case Study - Course 162,54
+970,162,Review & Quiz - Course 162,63
+971,162,Hands-on Practice - Course 162,60
+972,162,Review & Quiz - Course 162,46
+973,163,Introduction - Course 163,62
+974,163,Hands-on Practice - Course 163,59
+975,163,Introduction - Course 163,42
+976,163,Introduction - Course 163,35
+977,163,Review & Quiz - Course 163,73
+978,163,Case Study - Course 163,89
+979,164,Hands-on Practice - Course 164,23
+980,164,Hands-on Practice - Course 164,27
+981,164,Advanced Techniques - Course 164,36
+982,164,Review & Quiz - Course 164,84
+983,164,Review & Quiz - Course 164,28
+984,164,Core Concepts - Course 164,38
+985,165,Core Concepts - Course 165,83
+986,165,Introduction - Course 165,79
+987,165,Review & Quiz - Course 165,73
+988,165,Hands-on Practice - Course 165,58
+989,165,Core Concepts - Course 165,50
+990,165,Case Study - Course 165,58
+991,166,Introduction - Course 166,80
+992,166,Case Study - Course 166,84
+993,166,Core Concepts - Course 166,48
+994,166,Review & Quiz - Course 166,52
+995,166,Review & Quiz - Course 166,40
+996,166,Advanced Techniques - Course 166,44
+997,167,Core Concepts - Course 167,55
+998,167,Core Concepts - Course 167,79
+999,167,Advanced Techniques - Course 167,25
+1000,167,Case Study - Course 167,65
+1001,167,Hands-on Practice - Course 167,52
+1002,167,Review & Quiz - Course 167,89
+1003,168,Advanced Techniques - Course 168,34
+1004,168,Case Study - Course 168,55
+1005,168,Case Study - Course 168,77
+1006,168,Review & Quiz - Course 168,66
+1007,168,Core Concepts - Course 168,63
+1008,168,Case Study - Course 168,58
+1009,169,Core Concepts - Course 169,55
+1010,169,Review & Quiz - Course 169,47
+1011,169,Introduction - Course 169,78
+1012,169,Hands-on Practice - Course 169,60
+1013,169,Review & Quiz - Course 169,33
+1014,169,Introduction - Course 169,45
+1015,170,Review & Quiz - Course 170,77
+1016,170,Core Concepts - Course 170,27
+1017,170,Hands-on Practice - Course 170,69
+1018,170,Core Concepts - Course 170,44
+1019,170,Case Study - Course 170,23
+1020,170,Core Concepts - Course 170,62
+1021,171,Introduction - Course 171,44
+1022,171,Hands-on Practice - Course 171,62
+1023,171,Introduction - Course 171,81
+1024,171,Advanced Techniques - Course 171,45
+1025,171,Introduction - Course 171,89
+1026,171,Introduction - Course 171,84
+1027,172,Case Study - Course 172,47
+1028,172,Case Study - Course 172,56
+1029,172,Introduction - Course 172,54
+1030,172,Advanced Techniques - Course 172,58
+1031,172,Hands-on Practice - Course 172,62
+1032,172,Hands-on Practice - Course 172,60
+1033,173,Case Study - Course 173,46
+1034,173,Case Study - Course 173,68
+1035,173,Review & Quiz - Course 173,62
+1036,173,Core Concepts - Course 173,48
+1037,173,Hands-on Practice - Course 173,86
+1038,173,Hands-on Practice - Course 173,80
+1039,174,Advanced Techniques - Course 174,52
+1040,174,Introduction - Course 174,77
+1041,174,Case Study - Course 174,28
+1042,174,Hands-on Practice - Course 174,44
+1043,174,Core Concepts - Course 174,78
+1044,174,Advanced Techniques - Course 174,25
+1045,175,Introduction - Course 175,43
+1046,175,Introduction - Course 175,22
+1047,175,Advanced Techniques - Course 175,60
+1048,175,Hands-on Practice - Course 175,33
+1049,175,Core Concepts - Course 175,41
+1050,175,Core Concepts - Course 175,33
+1051,176,Core Concepts - Course 176,42
+1052,176,Case Study - Course 176,45
+1053,176,Advanced Techniques - Course 176,45
+1054,176,Case Study - Course 176,37
+1055,176,Hands-on Practice - Course 176,26
+1056,176,Case Study - Course 176,76
+1057,177,Introduction - Course 177,56
+1058,177,Advanced Techniques - Course 177,80
+1059,177,Review & Quiz - Course 177,74
+1060,177,Advanced Techniques - Course 177,77
+1061,177,Review & Quiz - Course 177,82
+1062,177,Core Concepts - Course 177,57
+1063,178,Introduction - Course 178,47
+1064,178,Core Concepts - Course 178,49
+1065,178,Case Study - Course 178,83
+1066,178,Case Study - Course 178,39
+1067,178,Advanced Techniques - Course 178,33
+1068,178,Core Concepts - Course 178,89
+1069,179,Case Study - Course 179,76
+1070,179,Advanced Techniques - Course 179,33
+1071,179,Introduction - Course 179,33
+1072,179,Case Study - Course 179,75
+1073,179,Hands-on Practice - Course 179,29
+1074,179,Case Study - Course 179,30
+1075,180,Review & Quiz - Course 180,63
+1076,180,Hands-on Practice - Course 180,59
+1077,180,Hands-on Practice - Course 180,55
+1078,180,Advanced Techniques - Course 180,76
+1079,180,Introduction - Course 180,58
+1080,180,Review & Quiz - Course 180,82
+1081,181,Hands-on Practice - Course 181,26
+1082,181,Hands-on Practice - Course 181,62
+1083,181,Core Concepts - Course 181,50
+1084,181,Advanced Techniques - Course 181,88
+1085,181,Hands-on Practice - Course 181,44
+1086,181,Core Concepts - Course 181,66
+1087,182,Hands-on Practice - Course 182,83
+1088,182,Case Study - Course 182,78
+1089,182,Case Study - Course 182,32
+1090,182,Case Study - Course 182,65
+1091,182,Advanced Techniques - Course 182,42
+1092,182,Introduction - Course 182,46
+1093,183,Advanced Techniques - Course 183,88
+1094,183,Case Study - Course 183,37
+1095,183,Core Concepts - Course 183,26
+1096,183,Case Study - Course 183,28
+1097,183,Case Study - Course 183,89
+1098,183,Review & Quiz - Course 183,52
+1099,184,Review & Quiz - Course 184,46
+1100,184,Core Concepts - Course 184,21
+1101,184,Advanced Techniques - Course 184,63
+1102,184,Core Concepts - Course 184,65
+1103,184,Case Study - Course 184,64
+1104,184,Introduction - Course 184,34
+1105,185,Advanced Techniques - Course 185,57
+1106,185,Review & Quiz - Course 185,86
+1107,185,Introduction - Course 185,70
+1108,185,Introduction - Course 185,21
+1109,185,Review & Quiz - Course 185,78
+1110,185,Core Concepts - Course 185,25
+1111,186,Hands-on Practice - Course 186,65
+1112,186,Hands-on Practice - Course 186,62
+1113,186,Case Study - Course 186,53
+1114,186,Introduction - Course 186,64
+1115,186,Core Concepts - Course 186,47
+1116,186,Hands-on Practice - Course 186,53
+1117,187,Introduction - Course 187,43
+1118,187,Introduction - Course 187,30
+1119,187,Introduction - Course 187,31
+1120,187,Advanced Techniques - Course 187,38
+1121,187,Hands-on Practice - Course 187,22
+1122,187,Advanced Techniques - Course 187,83
+1123,188,Hands-on Practice - Course 188,87
+1124,188,Review & Quiz - Course 188,58
+1125,188,Case Study - Course 188,37
+1126,188,Advanced Techniques - Course 188,39
+1127,188,Case Study - Course 188,42
+1128,188,Advanced Techniques - Course 188,21
+1129,189,Case Study - Course 189,81
+1130,189,Review & Quiz - Course 189,50
+1131,189,Core Concepts - Course 189,52
+1132,189,Review & Quiz - Course 189,85
+1133,189,Core Concepts - Course 189,23
+1134,189,Core Concepts - Course 189,22
+1135,190,Review & Quiz - Course 190,58
+1136,190,Core Concepts - Course 190,42
+1137,190,Review & Quiz - Course 190,89
+1138,190,Review & Quiz - Course 190,79
+1139,190,Case Study - Course 190,35
+1140,190,Advanced Techniques - Course 190,88
+1141,191,Hands-on Practice - Course 191,49
+1142,191,Introduction - Course 191,73
+1143,191,Review & Quiz - Course 191,43
+1144,191,Hands-on Practice - Course 191,63
+1145,191,Case Study - Course 191,75
+1146,191,Core Concepts - Course 191,85
+1147,192,Case Study - Course 192,48
+1148,192,Case Study - Course 192,53
+1149,192,Advanced Techniques - Course 192,27
+1150,192,Core Concepts - Course 192,34
+1151,192,Hands-on Practice - Course 192,22
+1152,192,Review & Quiz - Course 192,75
+1153,193,Core Concepts - Course 193,54
+1154,193,Advanced Techniques - Course 193,89
+1155,193,Review & Quiz - Course 193,65
+1156,193,Hands-on Practice - Course 193,22
+1157,193,Advanced Techniques - Course 193,26
+1158,193,Advanced Techniques - Course 193,33
+1159,194,Review & Quiz - Course 194,60
+1160,194,Advanced Techniques - Course 194,54
+1161,194,Introduction - Course 194,63
+1162,194,Core Concepts - Course 194,84
+1163,194,Core Concepts - Course 194,22
+1164,194,Hands-on Practice - Course 194,70
+1165,195,Hands-on Practice - Course 195,33
+1166,195,Introduction - Course 195,34
+1167,195,Introduction - Course 195,39
+1168,195,Advanced Techniques - Course 195,33
+1169,195,Core Concepts - Course 195,72
+1170,195,Review & Quiz - Course 195,47
+1171,196,Review & Quiz - Course 196,68
+1172,196,Case Study - Course 196,80
+1173,196,Review & Quiz - Course 196,43
+1174,196,Introduction - Course 196,33
+1175,196,Hands-on Practice - Course 196,83
+1176,196,Hands-on Practice - Course 196,63
+1177,197,Core Concepts - Course 197,36
+1178,197,Core Concepts - Course 197,67
+1179,197,Core Concepts - Course 197,44
+1180,197,Case Study - Course 197,37
+1181,197,Introduction - Course 197,71
+1182,197,Hands-on Practice - Course 197,23
+1183,198,Hands-on Practice - Course 198,56
+1184,198,Hands-on Practice - Course 198,52
+1185,198,Review & Quiz - Course 198,82
+1186,198,Advanced Techniques - Course 198,70
+1187,198,Review & Quiz - Course 198,54
+1188,198,Introduction - Course 198,88
+1189,199,Case Study - Course 199,54
+1190,199,Advanced Techniques - Course 199,75
+1191,199,Advanced Techniques - Course 199,72
+1192,199,Core Concepts - Course 199,87
+1193,199,Advanced Techniques - Course 199,69
+1194,199,Core Concepts - Course 199,50
+1195,200,Introduction - Course 200,50
+1196,200,Core Concepts - Course 200,77
+1197,200,Case Study - Course 200,61
+1198,200,Case Study - Course 200,63
+1199,200,Advanced Techniques - Course 200,52
+1200,200,Advanced Techniques - Course 200,74
