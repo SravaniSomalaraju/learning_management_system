@@ -6,13 +6,20 @@ This project implements a Learning Management System (LMS) database using Micros
 
 Table Description:
 
--->Users — Stores all platform users, including students and instructors, and defines their roles and identities.
--->Courses — Stores course information and ownership by instructors.
--->Lessons — Represents learning units that belong to courses.
--->Enrollments — Links users to the courses they are enrolled in, enabling tracking of course participation.
--->UserActivity — Records user interactions with lessons, including access status and timestamps for engagement analytics.
--->Assesments — Stores assessments associated with courses.
--->AssesmentSubmissions — Stores user submissions and scores for assessments.
+-->Users - Stores all platform users, including students and instructors, and defines their roles and identities.
+
+-->Courses - Stores course information and ownership by instructors.
+
+-->Lessons - Represents learning units that belong to courses.
+
+ -->Enrollments - Links users to the courses they are enrolled in, enabling tracking of course participation.
+
+-->UserActivity - Records user interactions with lessons, including access status and timestamps for engagement analytics.
+
+-->Assessments - Stores assessments associated with courses.
+
+-->AssessmentSubmissions - Stores user submissions and scores for assessments.
+
 
 Table Entity Relationships:
 
