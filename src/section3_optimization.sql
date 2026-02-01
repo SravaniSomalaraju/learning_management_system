@@ -49,3 +49,24 @@ INCLUDE (activity_time, status);
 
 --Always apply filters on UserActivity before joining to other tables
 --Do not use CAST, CONVERT, or other functions on activity_time in the WHERE clause.
+
+/*
+24.Describe scenarios where materialized views would be useful for this schema.
+
+materialized indexes would be useful in scenarios like:
+--Showing total enrolled users, total lessons, and average scores per course. 
+These require multiple joins and aggregations, which are expensive to calculate every time
+--Precomputing completion percentages for each user per course instead of scanning UserActivity and Lessons tables repeatedly.
+--Counting active users or lesson accesses per day or per course.
+--Precomputing average, highest, and lowest scores per assessment for reporting.
+*/
+
+
+/*
+25.Explain how partitioning could be applied to user_activity.
+--Partitioning can be applied to the UserActivity table by splitting the data based on time, using the activity_time column.
+--SQL Server scans only the relevant partition instead of the entire table.
+--Each partition holds activity records for a specific time range (for example, one month).
+*/
+
+
